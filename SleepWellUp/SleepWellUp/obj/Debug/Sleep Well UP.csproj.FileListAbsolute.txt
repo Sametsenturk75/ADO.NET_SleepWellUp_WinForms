@@ -1,0 +1,60 @@
+C:\Users\Samet Fazıl Şentürk\OneDrive - Istanbul Arel University\Masaüstü\Udemy C# Dersleri\UykuSaatiTakip\UykuSaatiTakip\bin\Debug\UykuSaatiTakip.exe.config
+C:\Users\Samet Fazıl Şentürk\OneDrive - Istanbul Arel University\Masaüstü\Udemy C# Dersleri\UykuSaatiTakip\UykuSaatiTakip\bin\Debug\UykuSaatiTakip.exe
+C:\Users\Samet Fazıl Şentürk\OneDrive - Istanbul Arel University\Masaüstü\Udemy C# Dersleri\UykuSaatiTakip\UykuSaatiTakip\bin\Debug\UykuSaatiTakip.pdb
+C:\Users\Samet Fazıl Şentürk\OneDrive - Istanbul Arel University\Masaüstü\Udemy C# Dersleri\UykuSaatiTakip\UykuSaatiTakip\obj\Debug\Sleep Well UP.csproj.AssemblyReference.cache
+C:\Users\Samet Fazıl Şentürk\OneDrive - Istanbul Arel University\Masaüstü\Udemy C# Dersleri\UykuSaatiTakip\UykuSaatiTakip\obj\Debug\Sleep Well UP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Samet Fazıl Şentürk\OneDrive - Istanbul Arel University\Masaüstü\Udemy C# Dersleri\UykuSaatiTakip\UykuSaatiTakip\obj\Debug\UykuSaatiTakip.FRM_AnaPanel.resources
+C:\Users\Samet Fazıl Şentürk\OneDrive - Istanbul Arel University\Masaüstü\Udemy C# Dersleri\UykuSaatiTakip\UykuSaatiTakip\obj\Debug\UykuSaatiTakip.FRM_KayitPaneli.resources
+C:\Users\Samet Fazıl Şentürk\OneDrive - Istanbul Arel University\Masaüstü\Udemy C# Dersleri\UykuSaatiTakip\UykuSaatiTakip\obj\Debug\UykuSaatiTakip.Properties.Resources.resources
+C:\Users\Samet Fazıl Şentürk\OneDrive - Istanbul Arel University\Masaüstü\Udemy C# Dersleri\UykuSaatiTakip\UykuSaatiTakip\obj\Debug\Sleep Well UP.csproj.GenerateResource.cache
+C:\Users\Samet Fazıl Şentürk\OneDrive - Istanbul Arel University\Masaüstü\Udemy C# Dersleri\UykuSaatiTakip\UykuSaatiTakip\obj\Debug\Sleep Well UP.csproj.CoreCompileInputs.cache
+C:\Users\Samet Fazıl Şentürk\OneDrive - Istanbul Arel University\Masaüstü\Udemy C# Dersleri\UykuSaatiTakip\UykuSaatiTakip\obj\Debug\UykuSaatiTakip.exe
+C:\Users\Samet Fazıl Şentürk\OneDrive - Istanbul Arel University\Masaüstü\Udemy C# Dersleri\UykuSaatiTakip\UykuSaatiTakip\obj\Debug\UykuSaatiTakip.pdb
+C:\Users\Samet Fazıl Şentürk\OneDrive - Istanbul Arel University\Masaüstü\Udemy C# Dersleri\UykuSaatiTakip\UykuSaatiTakip\obj\Debug\UykuSaatiTakip.FRM_GirisPaneli.resources
+C:\Users\Samet Fazıl Şentürk\OneDrive - Istanbul Arel University\Masaüstü\Udemy C# Dersleri\UykuSaatiTakip\UykuSaatiTakip\obj\Debug\UykuSaatiTakip.FRM_KullaniciPaneli.resources
+C:\Users\Samet Fazıl Şentürk\OneDrive - Istanbul Arel University\Masaüstü\Udemy C# Dersleri\UykuSaatiTakip\UykuSaatiTakip\obj\Debug\UykuSaatiTakip.FRM_BilgiDuzenle.resources
+C:\Users\Samet Fazıl Şentürk\OneDrive - Istanbul Arel University\Masaüstü\Eğitimler\Oluşturduğum Projeler\UykuSaatiTakip\UykuSaatiTakip\bin\Debug\UykuSaatiTakip.exe.config
+C:\Users\Samet Fazıl Şentürk\OneDrive - Istanbul Arel University\Masaüstü\Eğitimler\Oluşturduğum Projeler\UykuSaatiTakip\UykuSaatiTakip\bin\Debug\UykuSaatiTakip.exe
+C:\Users\Samet Fazıl Şentürk\OneDrive - Istanbul Arel University\Masaüstü\Eğitimler\Oluşturduğum Projeler\UykuSaatiTakip\UykuSaatiTakip\bin\Debug\UykuSaatiTakip.pdb
+C:\Users\Samet Fazıl Şentürk\OneDrive - Istanbul Arel University\Masaüstü\Eğitimler\Oluşturduğum Projeler\UykuSaatiTakip\UykuSaatiTakip\obj\Debug\Sleep Well UP.csproj.AssemblyReference.cache
+C:\Users\Samet Fazıl Şentürk\OneDrive - Istanbul Arel University\Masaüstü\Eğitimler\Oluşturduğum Projeler\UykuSaatiTakip\UykuSaatiTakip\obj\Debug\Sleep Well UP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Samet Fazıl Şentürk\OneDrive - Istanbul Arel University\Masaüstü\Eğitimler\Oluşturduğum Projeler\UykuSaatiTakip\UykuSaatiTakip\obj\Debug\UykuSaatiTakip.FRM_AnaPanel.resources
+C:\Users\Samet Fazıl Şentürk\OneDrive - Istanbul Arel University\Masaüstü\Eğitimler\Oluşturduğum Projeler\UykuSaatiTakip\UykuSaatiTakip\obj\Debug\UykuSaatiTakip.FRM_BilgiDuzenle.resources
+C:\Users\Samet Fazıl Şentürk\OneDrive - Istanbul Arel University\Masaüstü\Eğitimler\Oluşturduğum Projeler\UykuSaatiTakip\UykuSaatiTakip\obj\Debug\UykuSaatiTakip.FRM_GirisPaneli.resources
+C:\Users\Samet Fazıl Şentürk\OneDrive - Istanbul Arel University\Masaüstü\Eğitimler\Oluşturduğum Projeler\UykuSaatiTakip\UykuSaatiTakip\obj\Debug\UykuSaatiTakip.FRM_KayitPaneli.resources
+C:\Users\Samet Fazıl Şentürk\OneDrive - Istanbul Arel University\Masaüstü\Eğitimler\Oluşturduğum Projeler\UykuSaatiTakip\UykuSaatiTakip\obj\Debug\UykuSaatiTakip.FRM_KullaniciPaneli.resources
+C:\Users\Samet Fazıl Şentürk\OneDrive - Istanbul Arel University\Masaüstü\Eğitimler\Oluşturduğum Projeler\UykuSaatiTakip\UykuSaatiTakip\obj\Debug\UykuSaatiTakip.Properties.Resources.resources
+C:\Users\Samet Fazıl Şentürk\OneDrive - Istanbul Arel University\Masaüstü\Eğitimler\Oluşturduğum Projeler\UykuSaatiTakip\UykuSaatiTakip\obj\Debug\Sleep Well UP.csproj.GenerateResource.cache
+C:\Users\Samet Fazıl Şentürk\OneDrive - Istanbul Arel University\Masaüstü\Eğitimler\Oluşturduğum Projeler\UykuSaatiTakip\UykuSaatiTakip\obj\Debug\Sleep Well UP.csproj.CoreCompileInputs.cache
+C:\Users\Samet Fazıl Şentürk\OneDrive - Istanbul Arel University\Masaüstü\Eğitimler\Oluşturduğum Projeler\UykuSaatiTakip\UykuSaatiTakip\obj\Debug\UykuSaatiTakip.exe
+C:\Users\Samet Fazıl Şentürk\OneDrive - Istanbul Arel University\Masaüstü\Eğitimler\Oluşturduğum Projeler\UykuSaatiTakip\UykuSaatiTakip\obj\Debug\UykuSaatiTakip.pdb
+C:\Users\Samet Fazıl Şentürk\Masaüstü\UykuSaatiTakip\UykuSaatiTakip\bin\Debug\UykuSaatiTakip.exe.config
+C:\Users\Samet Fazıl Şentürk\Masaüstü\UykuSaatiTakip\UykuSaatiTakip\bin\Debug\UykuSaatiTakip.exe
+C:\Users\Samet Fazıl Şentürk\Masaüstü\UykuSaatiTakip\UykuSaatiTakip\bin\Debug\UykuSaatiTakip.pdb
+C:\Users\Samet Fazıl Şentürk\Masaüstü\UykuSaatiTakip\UykuSaatiTakip\obj\Debug\Sleep Well UP.csproj.AssemblyReference.cache
+C:\Users\Samet Fazıl Şentürk\Masaüstü\UykuSaatiTakip\UykuSaatiTakip\obj\Debug\Sleep Well UP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Samet Fazıl Şentürk\Masaüstü\UykuSaatiTakip\UykuSaatiTakip\obj\Debug\UykuSaatiTakip.FRM_AnaPanel.resources
+C:\Users\Samet Fazıl Şentürk\Masaüstü\UykuSaatiTakip\UykuSaatiTakip\obj\Debug\UykuSaatiTakip.FRM_BilgiDuzenle.resources
+C:\Users\Samet Fazıl Şentürk\Masaüstü\UykuSaatiTakip\UykuSaatiTakip\obj\Debug\UykuSaatiTakip.FRM_GirisPaneli.resources
+C:\Users\Samet Fazıl Şentürk\Masaüstü\UykuSaatiTakip\UykuSaatiTakip\obj\Debug\UykuSaatiTakip.FRM_KayitPaneli.resources
+C:\Users\Samet Fazıl Şentürk\Masaüstü\UykuSaatiTakip\UykuSaatiTakip\obj\Debug\UykuSaatiTakip.FRM_KullaniciPaneli.resources
+C:\Users\Samet Fazıl Şentürk\Masaüstü\UykuSaatiTakip\UykuSaatiTakip\obj\Debug\UykuSaatiTakip.Properties.Resources.resources
+C:\Users\Samet Fazıl Şentürk\Masaüstü\UykuSaatiTakip\UykuSaatiTakip\obj\Debug\Sleep Well UP.csproj.GenerateResource.cache
+C:\Users\Samet Fazıl Şentürk\Masaüstü\UykuSaatiTakip\UykuSaatiTakip\obj\Debug\Sleep Well UP.csproj.CoreCompileInputs.cache
+C:\Users\Samet Fazıl Şentürk\Masaüstü\UykuSaatiTakip\UykuSaatiTakip\obj\Debug\UykuSaatiTakip.exe
+C:\Users\Samet Fazıl Şentürk\Masaüstü\UykuSaatiTakip\UykuSaatiTakip\obj\Debug\UykuSaatiTakip.pdb
+C:\Users\Samet Fazıl Şentürk\Masaüstü\Deneme Projeler\UykuSaatiTakip\UykuSaatiTakip\bin\Debug\UykuSaatiTakip.exe.config
+C:\Users\Samet Fazıl Şentürk\Masaüstü\Deneme Projeler\UykuSaatiTakip\UykuSaatiTakip\bin\Debug\UykuSaatiTakip.exe
+C:\Users\Samet Fazıl Şentürk\Masaüstü\Deneme Projeler\UykuSaatiTakip\UykuSaatiTakip\bin\Debug\UykuSaatiTakip.pdb
+C:\Users\Samet Fazıl Şentürk\Masaüstü\Deneme Projeler\UykuSaatiTakip\UykuSaatiTakip\obj\Debug\Sleep Well UP.csproj.AssemblyReference.cache
+C:\Users\Samet Fazıl Şentürk\Masaüstü\Deneme Projeler\UykuSaatiTakip\UykuSaatiTakip\obj\Debug\Sleep Well UP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Samet Fazıl Şentürk\Masaüstü\Deneme Projeler\UykuSaatiTakip\UykuSaatiTakip\obj\Debug\UykuSaatiTakip.FRM_AnaPanel.resources
+C:\Users\Samet Fazıl Şentürk\Masaüstü\Deneme Projeler\UykuSaatiTakip\UykuSaatiTakip\obj\Debug\UykuSaatiTakip.FRM_BilgiDuzenle.resources
+C:\Users\Samet Fazıl Şentürk\Masaüstü\Deneme Projeler\UykuSaatiTakip\UykuSaatiTakip\obj\Debug\UykuSaatiTakip.FRM_GirisPaneli.resources
+C:\Users\Samet Fazıl Şentürk\Masaüstü\Deneme Projeler\UykuSaatiTakip\UykuSaatiTakip\obj\Debug\UykuSaatiTakip.FRM_KayitPaneli.resources
+C:\Users\Samet Fazıl Şentürk\Masaüstü\Deneme Projeler\UykuSaatiTakip\UykuSaatiTakip\obj\Debug\UykuSaatiTakip.FRM_KullaniciPaneli.resources
+C:\Users\Samet Fazıl Şentürk\Masaüstü\Deneme Projeler\UykuSaatiTakip\UykuSaatiTakip\obj\Debug\UykuSaatiTakip.Properties.Resources.resources
+C:\Users\Samet Fazıl Şentürk\Masaüstü\Deneme Projeler\UykuSaatiTakip\UykuSaatiTakip\obj\Debug\Sleep Well UP.csproj.GenerateResource.cache
+C:\Users\Samet Fazıl Şentürk\Masaüstü\Deneme Projeler\UykuSaatiTakip\UykuSaatiTakip\obj\Debug\Sleep Well UP.csproj.CoreCompileInputs.cache
+C:\Users\Samet Fazıl Şentürk\Masaüstü\Deneme Projeler\UykuSaatiTakip\UykuSaatiTakip\obj\Debug\UykuSaatiTakip.exe
+C:\Users\Samet Fazıl Şentürk\Masaüstü\Deneme Projeler\UykuSaatiTakip\UykuSaatiTakip\obj\Debug\UykuSaatiTakip.pdb
